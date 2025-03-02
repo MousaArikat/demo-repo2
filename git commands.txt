@@ -1,0 +1,12 @@
+Git Commands:
+
+    . git checkout  # change branch
+    . git branch    # create branch or branch status
+    . git branch -d # delete branch 
+    . git pull      # pull changes from github Interface
+    . git diff
+    
+    #adding files:
+    . git add ___(file name)
+    . git commit
+    . git push
